@@ -5,6 +5,7 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.figure_factory as ff
+import tkinter
 
 from scipy import stats
 from scipy.stats import norm #used for plotting
